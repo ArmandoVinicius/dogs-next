@@ -1,7 +1,7 @@
 export default async function PerfilPage() {
   return (
     <main>
-      <h1>Perfil</h1>
+      <h1>Meu Perfil</h1>
     </main>
   )
 }
