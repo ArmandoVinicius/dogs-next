@@ -1,5 +1,7 @@
-export default function Home() {
+export default function HomePage() {
   return (
-    <h1>Dogs Next</h1>
+    <main>
+      <h1 className="title">Dogs Next</h1>
+    </main>
   );
 }
